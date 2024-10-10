@@ -1,0 +1,5 @@
+
+interface InterNuotante {
+
+	void nuota();
+}

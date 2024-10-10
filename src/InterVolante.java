@@ -1,0 +1,4 @@
+
+interface InterVolante {
+	void vola();
+}
